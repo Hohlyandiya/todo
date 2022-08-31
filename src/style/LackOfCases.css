@@ -1,0 +1,9 @@
+.lack-of-cases{
+    display: flex;
+    min-height: 30px;
+    font-size: 20px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid #D6CED5;;
+}
